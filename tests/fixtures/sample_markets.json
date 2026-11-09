@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "current_price": 60000.0,
+    "market_cap": 1180000000000,
+    "market_cap_rank": 1,
+    "total_volume": 25000000000,
+    "high_24h": 61500.0,
+    "low_24h": 58900.0,
+    "price_change_percentage_24h": 2.1
+  },
+  {
+    "id": "ethereum",
+    "symbol": "eth",
+    "name": "Ethereum",
+    "current_price": 2400.0,
+    "market_cap": 290000000000,
+    "market_cap_rank": 2,
+    "total_volume": 12000000000,
+    "high_24h": 2480.0,
+    "low_24h": 2350.0,
+    "price_change_percentage_24h": -1.4
+  },
+  {
+    "id": "some-small-coin",
+    "symbol": "ssc",
+    "name": "Some Small Coin",
+    "current_price": 0.05,
+    "market_cap": 8000000,
+    "market_cap_rank": 420,
+    "total_volume": 50000,
+    "high_24h": 0.09,
+    "low_24h": 0.045,
+    "price_change_percentage_24h": 42.7
+  },
+  {
+    "id": "stablecoin-example",
+    "symbol": "stbl",
+    "name": "Stablecoin Example",
+    "current_price": 1.0,
+    "market_cap": 95000000000,
+    "market_cap_rank": 3,
+    "total_volume": 60000000000,
+    "high_24h": 1.001,
+    "low_24h": 0.999,
+    "price_change_percentage_24h": 0.01
+  },
+  {
+    "id": "crashing-coin",
+    "symbol": "crsh",
+    "name": "Crashing Coin",
+    "current_price": 0.001,
+    "market_cap": 1200000,
+    "market_cap_rank": 800,
+    "total_volume": 900,
+    "high_24h": 0.0025,
+    "low_24h": 0.0009,
+    "price_change_percentage_24h": -61.3
+  },
+  {
+    "id": "missing-data-coin",
+    "symbol": "miss",
+    "name": "Missing Data Coin",
+    "current_price": 3.2,
+    "market_cap": null,
+    "market_cap_rank": null,
+    "total_volume": 10000,
+    "high_24h": null,
+    "low_24h": null,
+    "price_change_percentage_24h": null
+  }
+]
